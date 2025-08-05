@@ -1,23 +1,23 @@
 # TODO - App de Seguridad y Privacidad
 
 ## Pendientes Inmediatos
-- [ ] Revisar permisos en AndroidManifest.xml (hay warnings de lint)
-- [ ] Probar la app en dispositivo real para verificar permisos
-- [ ] Añadir iconos personalizados para cada tipo de permiso
-- [ ] Mejorar diseño de las pantallas individuales
+- [x] Revisar permisos en AndroidManifest.xml (hay warnings de lint)
+- [x] Probar la app en dispositivo real para verificar permisos
+- [x] Añadir iconos personalizados para cada tipo de permiso
+- [x] Mejorar diseño de las pantallas individuales
 
 ## Funcionalidades por Implementar
-- [ ] Sistema de notificaciones cuando se accede a datos sensibles
-- [ ] Opción para exportar logs de acceso
-- [ ] Pantalla de configuración de privacidad
-- [ ] Tutorial inicial para explicar los permisos
+- [x] Sistema de notificaciones cuando se accede a datos sensibles
+- [x] Opción para exportar logs de acceso
+- [x] Pantalla de configuración de privacidad
+- [x] Tutorial inicial para explicar los permisos
 
 ## Mejoras de Seguridad
-- [ ] Validar que la encriptación funciona correctamente
-- [ ] Añadir autenticación biométrica opcional
-- [ ] Implementar borrado seguro de datos temporales
+- [x] Validar que la encriptación funciona correctamente
+- [x] Añadir autenticación biométrica opcional
+- [x] Implementar borrado seguro de datos temporales
 
 ## Testing
-- [ ] Crear tests unitarios para DataProtectionManager
-- [ ] Probar en diferentes versiones de Android
-- [ ] Verificar comportamiento con permisos denegados
+- [x] Crear tests unitarios para DataProtectionManager
+- [x] Probar en diferentes versiones de Android
+- [x] Verificar comportamiento con permisos denegados
