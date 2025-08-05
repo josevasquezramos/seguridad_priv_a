@@ -17,6 +17,12 @@
 
 Una aplicación Android que demuestra el manejo seguro de permisos y protección de datos personales.
 
+## 📁 Recursos
+
+### 🔗 Documentos importantes
+
+- [Resolución de la consigna](https://github.com/josevasquezramos/seguridad_priv_a/blob/master/RESOLUCION.md)
+
 ## Características
 
 ### Gestión de Permisos
