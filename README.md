@@ -21,7 +21,15 @@ Una aplicación Android que demuestra el manejo seguro de permisos y protección
 
 ### 🔗 Documentos importantes
 
-- [Resolución de la consigna](https://github.com/josevasquezramos/seguridad_priv_a/blob/master/RESOLUCION.md)
+- [**Resolución de la consigna**](https://github.com/josevasquezramos/seguridad_priv_a/blob/master/RESOLUCION.md)
+
+### 📚 Entregables
+
+1. [**Código fuente**](https://github.com/josevasquezramos/seguridad_priv_a/) de todas las implementaciones solicitadas
+2. [**Informe técnico**](https://github.com/josevasquezramos/seguridad_priv_a/blob/master/informe_tecnico.pdf) detallando vulnerabilidades encontradas y soluciones aplicadas
+3. [**Diagramas de arquitectura**](https://github.com/josevasquezramos/seguridad_priv_a/blob/master/ARQUITECTURA.md) para componentes de seguridad nuevos
+4. [**Suite de pruebas**](https://github.com/josevasquezramos/seguridad_priv_a/tree/master/app/src/androidTest/java/com/example/seguridad_priv_a) automatizadas para validar medidas de seguridad
+5. [**Manual de deployment**](https://github.com/josevasquezramos/seguridad_priv_a/blob/master/manual_deployment.pdf) con consideraciones de seguridad para producción
 
 ## Características
 
