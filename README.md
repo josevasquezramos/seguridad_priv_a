@@ -33,32 +33,19 @@ Una aplicación Android que demuestra el manejo seguro de permisos y protección
 
 ## 📷 Capturas
 
-<img width="250" alt="image" src="img/1.jpeg" />
-<img width="250" alt="image" src="img/2.jpeg" />
-<img width="250" alt="image" src="img/3.jpeg" />
-<img width="250" alt="image" src="img/4.jpeg" />
-<img width="250" alt="image" src="img/5.jpeg" />
-<img width="250" alt="image" src="img/6.jpeg" />
-<img width="250" alt="image" src="img/7.jpeg" />
-<img width="250" alt="image" src="img/8.jpeg" />
-<img width="250" alt="image" src="img/9.jpeg" />
-<img width="250" alt="image" src="img/10.jpeg" />
-<img width="250" alt="image" src="img/11.jpeg" />
-<img width="250" alt="image" src="img/12.jpeg" />
-<img width="250" alt="image" src="img/13.jpeg" />
-<img width="250" alt="image" src="img/14.jpeg" />
-<img width="250" alt="image" src="img/15.jpeg" />
-<img width="250" alt="image" src="img/16.jpeg" />
-<img width="250" alt="image" src="img/17.jpeg" />
-<img width="250" alt="image" src="img/18.jpeg" />
-<img width="250" alt="image" src="img/A0301.png" />
-<img width="250" alt="image" src="img/A0302.png" />
-<img width="250" alt="image" src="img/A0303.png" />
-<img width="250" alt="image" src="img/A0304.png" />
-<img width="250" alt="image" src="img/A0601.png" />
-<img width="250" alt="image" src="img/A0602.png" />
-<img width="250" alt="image" src="img/A0603.png" />
-<img width="250" alt="image" src="img/A0604.png" />
+<img width="250" alt="image" src="img/1.jpeg" /> <img width="250" alt="image" src="img/2.jpeg" />
+<img width="250" alt="image" src="img/3.jpeg" /> <img width="250" alt="image" src="img/4.jpeg" />
+<img width="250" alt="image" src="img/5.jpeg" /> <img width="250" alt="image" src="img/6.jpeg" />
+<img width="250" alt="image" src="img/7.jpeg" /> <img width="250" alt="image" src="img/8.jpeg" />
+<img width="250" alt="image" src="img/9.jpeg" /> <img width="250" alt="image" src="img/10.jpeg" />
+<img width="250" alt="image" src="img/11.jpeg" /> <img width="250" alt="image" src="img/12.jpeg" />
+<img width="250" alt="image" src="img/13.jpeg" /> <img width="250" alt="image" src="img/14.jpeg" />
+<img width="250" alt="image" src="img/15.jpeg" /> <img width="250" alt="image" src="img/16.jpeg" />
+<img width="250" alt="image" src="img/17.jpeg" /> <img width="250" alt="image" src="img/18.jpeg" />
+<img width="250" alt="image" src="img/A0301.png" /> <img width="250" alt="image" src="img/A0302.png" />
+<img width="250" alt="image" src="img/A0303.png" /> <img width="250" alt="image" src="img/A0304.png" />
+<img width="250" alt="image" src="img/A0601.png" /> <img width="250" alt="image" src="img/A0602.png" />
+<img width="250" alt="image" src="img/A0603.png" /> <img width="250" alt="image" src="img/A0604.png" />
 
 ## Características
 
