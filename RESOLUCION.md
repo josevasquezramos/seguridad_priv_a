@@ -281,17 +281,13 @@ Implementa autenticación biométrica en [`DataProtectionActivity.kt`](https://g
 
 Celular Android con desbloqueo biométrico por huella digital y PIN de seguridad como respaldo.
 
-<img width="450" alt="image" src="img/A0601.png" />
-<img width="450" alt="image" src="img/A0602.png" />
-<img width="450" alt="image" src="img/A0603.png" />
-<img width="450" alt="image" src="img/A0604.png" />
+<img width="450" alt="image" src="img/A0601.png" /> <img width="450" alt="image" src="img/A0602.png" />
+<img width="450" alt="image" src="img/A0603.png" /> <img width="450" alt="image" src="img/A0604.png" />
 
 Celular Android con desbloqueo mediante patrón de seguridad.
 
-<img width="450" alt="image" src="img/A0301.png" />
-<img width="450" alt="image" src="img/A0302.png" />
-<img width="450" alt="image" src="img/A0303.png" />
-<img width="450" alt="image" src="img/A0304.png" />
+<img width="450" alt="image" src="img/A0301.png" /> <img width="450" alt="image" src="img/A0302.png" />
+<img width="450" alt="image" src="img/A0303.png" /> <img width="450" alt="image" src="img/A0304.png" />
 
 ## Parte 3: Arquitectura de Seguridad Avanzada (15-20 puntos)
 
